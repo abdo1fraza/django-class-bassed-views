@@ -1,6 +1,6 @@
 from django.shortcuts import render
 
-# Create your views here.\
+# Create your views here.\a;dskf;sd;sfakjf;lkdjasf;
 
 def post_list():
     pass
